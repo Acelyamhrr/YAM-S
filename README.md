@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:234C6A,100:1B3C53&height=160&section=header&text=🎲%20Projet%20Yam's&fontSize=40&fontColor=ffffff" />
-</p>
-
 # 🎲 Projet Yam's (C# + Web)
 
 Projet réalisé dans le cadre du cours de programmation à l’IUT.  
