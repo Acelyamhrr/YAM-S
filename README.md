@@ -52,6 +52,5 @@ Il s’agit d’un **jeu de Yam’s** développé en **C# (console)**, avec une 
     "date": "2025-10-09T15:00:00",
     "nb_tours": 13
   }
-}```
-
-
+}
+```
