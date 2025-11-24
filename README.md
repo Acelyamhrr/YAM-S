@@ -16,10 +16,16 @@ Ce projet est un **jeu de Yam's** (aussi appelé Yahtzee) développé dans le ca
 ## Captures d'écran
 
 ### Interface console
-*(Ajoutez ici une capture du jeu dans le terminal)*
+<div align="center">
+  <img src="Assets/console.png" alt="Console" width="600"/>
+  <p><em>Le jeu en cours d'exécution dans le terminal</em></p>
+</div>
 
 ### Interface web
-*(Ajoutez ici une capture de la page de résultats)*
+<div align="center">
+  <img src="Assets/web.png" alt="Console" width="600"/>
+  <p><em>L'affichage des résultats dans la page web</em></p>
+</div>
 
 ---
 
